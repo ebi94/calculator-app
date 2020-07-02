@@ -1,0 +1,23 @@
+.result {
+    margin: '0 auto';
+    min-height: 90px;
+    font-size: 40px;
+    float: right;
+    color: #5b5b5b;
+}
+
+.input {
+    margin: '0 auto';
+    padding-top: 15px;
+    min-height: 70px;
+    font-size: 40px;
+    color: #5b5b5b;
+}
+
+.output {
+    margin: '0 auto';
+    padding-top: 10px;
+    min-height: 70px;
+    font-size: 40px;
+    color: #5b5b5b;
+}
